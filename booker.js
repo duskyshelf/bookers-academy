@@ -30,7 +30,7 @@ var User = bookshelf.Model.extend({
   tableName: 'users'
 });
 
-var bob = new User({id: 1});
+var bob = new User({id: 2});
 bob.save()
 
 knex.select("*").from("users").then(function(rows){
