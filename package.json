@@ -1,0 +1,22 @@
+{
+  "name": "bookers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "booker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duskyshelf/bookers-academy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duskyshelf/bookers-academy/issues"
+  },
+  "homepage": "https://github.com/duskyshelf/bookers-academy#readme",
+  "dependencies": {
+    "express": "^4.13.1"
+  }
+}
